@@ -18,7 +18,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/rstudio"
-
+[[menu.main]]
+    name = "Factory"
+    url = "/factory/"
+[[menu.main]]
+    name = "Marketing"
+    url = "/marketing/"
 [params]
     description = "A website built through Hugo and blogdown."
 
